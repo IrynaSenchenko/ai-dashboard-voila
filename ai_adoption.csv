@@ -1,0 +1,51 @@
+Country,Continent,Year,AI_Projects,Investment_Mln,AI_Users_Mln
+Australia,Oceania,2020,108,248.33,1.26
+Australia,Oceania,2021,155,473.47,0.88
+Australia,Oceania,2022,441,1667.21,19.3
+Australia,Oceania,2023,290,555.23,12.76
+Australia,Oceania,2024,408,506.31,13.4
+Brazil,South America,2020,302,738.01,7.35
+Brazil,South America,2021,437,831.48,13.05
+Brazil,South America,2022,521,293.51,5.05
+Brazil,South America,2023,510,717.95,22.4
+Brazil,South America,2024,682,2851.49,21.53
+Canada,North America,2020,326,1068.85,15.33
+Canada,North America,2021,84,385.72,6.54
+Canada,North America,2022,570,2265.81,5.05
+Canada,North America,2023,442,1634.51,2.86
+Canada,North America,2024,239,237.86,5.78
+China,Asia,2020,711,535.99,18.08
+China,Asia,2021,395,371.11,17.14
+China,Asia,2022,237,697.29,3.61
+China,Asia,2023,662,3225.73,21.24
+China,Asia,2024,389,1756.92,13.53
+France,Europe,2020,516,490.14,11.54
+France,Europe,2021,696,882.08,1.72
+France,Europe,2022,345,1483.64,18.71
+France,Europe,2023,777,2716.9,14.82
+France,Europe,2024,627,2075.11,7.46
+Germany,Europe,2020,121,386.47,3.98
+Germany,Europe,2021,293,927.6,1.26
+Germany,Europe,2022,511,706.16,1.23
+Germany,Europe,2023,82,64.45,7.84
+Germany,Europe,2024,209,667.73,17.4
+India,Asia,2020,422,1352.52,17.73
+India,Asia,2021,437,2071.34,14.13
+India,Asia,2022,102,320.32,24.13
+India,Asia,2023,775,3481.65,11.86
+India,Asia,2024,695,1775.31,5.54
+Japan,Asia,2020,749,1609.32,11.46
+Japan,Asia,2021,451,1798.63,23.49
+Japan,Asia,2022,539,1138.96,2.99
+Japan,Asia,2023,783,882.43,15.15
+Japan,Asia,2024,367,550.31,3.08
+United Kingdom,Europe,2020,463,673.91,4.63
+United Kingdom,Europe,2021,416,1487.07,15.29
+United Kingdom,Europe,2022,64,79.6,0.49
+United Kingdom,Europe,2023,54,163.39,19.3
+United Kingdom,Europe,2024,555,582.41,8.97
+USA,North America,2020,152,620.84,4.67
+USA,North America,2021,736,2416.09,9.62
+USA,North America,2022,319,1203.5,8.23
+USA,North America,2023,184,795.83,11.29
+USA,North America,2024,704,2745.59,5.8
