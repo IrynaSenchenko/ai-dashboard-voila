@@ -10,6 +10,10 @@
 - 📋 Таблиця топ країн за інвестиціями
 
 ---
+### 🖼️ Preview of the Dashboard
+
+<img src="images/dashboard_preview.png" alt="AI Dashboard preview" width="600"/>
+
 
 ## 🧾 Опис проєкту (UA)
 
